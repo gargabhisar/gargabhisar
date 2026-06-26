@@ -62,8 +62,8 @@
 ## 🏢 Experience
 
 * Senior Software Engineer — Wells Fargo
-* Software Engineer — Synechron
-* Software Engineer — HCL Technologies
+* Lead - Technology — Synechron
+* Software Engineer — HCL Infosystems
 
 **12+ years of experience delivering enterprise solutions across Banking, Financial Services, Publishing, and SaaS domains.**
 
@@ -112,7 +112,7 @@ WhatsApp, Email, Amazon, and workflow automation tools for publishing operations
 
 ## ⚡ Fun Facts
 
-* 📚 Published 160+ books through InkQuills Publishing House
+* 📚 Published 180+ books through InkQuills Publishing House
 * ✍️ Started my journey as a poet before becoming a publisher
 * 🌍 Love combining travel, photography, and storytelling
 * 💡 Equally comfortable discussing distributed systems and book publishing
