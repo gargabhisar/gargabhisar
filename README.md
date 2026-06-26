@@ -8,6 +8,7 @@
   <a href="https://github.com/gargabhisar">
     <img src="https://img.shields.io/github/followers/gargabhisar?style=for-the-badge" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=gargabhisar&style=for-the-badge" />
 </p>
 
 ---
