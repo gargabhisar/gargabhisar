@@ -75,8 +75,15 @@ WhatsApp, Email, and Publishing workflow automation solutions.
 - ✍️ Writer & Publisher
 - 📚 Book Lover
 
-Visited:
-🇬🇧 UK • 🇸🇬 Singapore • 🇲🇾 Malaysia • 🇮🇩 Bali • 🇦🇪 Dubai • 🇲🇻 Maldives
+### 🌍 Places Explored
+
+#### International
+🇬🇧 United Kingdom • 🇫🇷 France • 🇨🇭 Switzerland • 🇧🇹 Bhutan • 🇸🇬 Singapore • 🇲🇾 Malaysia • 🇮🇩 Indonesia • 🇦🇪 UAE • 🇲🇻 Maldives
+
+#### India
+🏔️ Spiti Valley • 🌊 Andaman Islands • 🏜️ Jaisalmer • 🌴 Goa • 🌴 Varkala • 🏛️ Hampi • 🏰 Aurangabad • 🌄 Gandikota • 🙏 Amritsar • 🌋 Nashik • 🏯 Warangal • 🕌 Bidar • 🌆 Mumbai • 🌆 Pune • 🏛️ Lucknow • 🌊 Rameswaram • ⛰️ Mussoorie
+
+📷 Passionate traveler who loves exploring cultures, landscapes, history, and stories across India and around the world.
 
 ---
 
