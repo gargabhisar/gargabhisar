@@ -118,7 +118,7 @@ WhatsApp, Email, Amazon, and workflow automation tools for publishing operations
 * 💡 Equally comfortable discussing distributed systems and book publishing
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -134,7 +134,7 @@ WhatsApp, Email, Amazon, and workflow automation tools for publishing operations
 </p>
 
 ---
-
+-->
 ## 🤝 Connect With Me
 
 * 🌐 Website: https://inkquills.in
