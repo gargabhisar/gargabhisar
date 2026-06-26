@@ -5,7 +5,12 @@
   <a href="https://inkquills.in">
     <img src="https://img.shields.io/badge/Website-InkQuills-blue?style=for-the-badge" />
   </a>
+  <!-- 
   <img src="https://komarev.com/ghpvc/?username=gargabhisar&style=for-the-badge" />
+  <a href="https://github.com/gargabhisar">
+    <img src="https://img.shields.io/github/followers/gargabhisar?style=for-the-badge" />
+  </a>
+  -->
 </p>
 
 ---
