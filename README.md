@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhisar Garg</h1>
-<h3 align="center">Senior Software Engineer | Founder & Director, InkQuills Publishing House</h3>
+<h3 align="center">Senior Software Engineer
 
 <!--
 <p align="center">
@@ -14,7 +14,6 @@
 
 * 💼 Senior Software Engineer with **12+ years of experience** building enterprise-scale applications
 * 🏦 Engineering solutions in Banking & Financial Services
-* 📚 Founder & Director of **InkQuills Publishing House**
 * 👨‍💻 Specialized in **.NET, C#, Distributed Systems, APIs, SQL Server & MongoDB**
 * ✍️ Publisher, Author, Traveler & Photographer
 * 🌱 Building SaaS products for Authors, Publishers, and Content Creators
@@ -23,12 +22,12 @@
 
 ## 🔭 Current Focus
 
+* ☁️ Cloud-Native .NET Applications
+* * 🧠 AI-powered Author Services
+* 🚀 Scalable Enterprise Solutions
 * 📖 Author Dashboard SaaS
 * 🤖 Publishing Automation & Workflows
-* 🧠 AI-powered Author Services
-* ☁️ Cloud-Native .NET Applications
-* 🚀 Scalable Enterprise Solutions
-
+  
 ---
 
 ## 💻 Tech Stack
@@ -112,9 +111,9 @@ WhatsApp, Email, Amazon, and workflow automation tools for publishing operations
 
 ## ⚡ Fun Facts
 
+* 🌍 Love combining travel, photography, and storytelling
 * 📚 Published 180+ books through InkQuills Publishing House
 * ✍️ Started my journey as a poet before becoming a publisher
-* 🌍 Love combining travel, photography, and storytelling
 * 💡 Equally comfortable discussing distributed systems and book publishing
 
 ---
@@ -137,7 +136,6 @@ WhatsApp, Email, Amazon, and workflow automation tools for publishing operations
 -->
 ## 🤝 Connect With Me
 
-* 🌐 Website: https://inkquills.in
 * 💻 GitHub: https://github.com/gargabhisar
 * 💼 LinkedIn: https://linkedin.com/in/abhisargarg
 
