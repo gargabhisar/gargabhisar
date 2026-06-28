@@ -23,7 +23,7 @@
 ## 🔭 Current Focus
 
 * ☁️ Cloud-Native .NET Applications
-* * 🧠 AI-powered Author Services
+* 🧠 AI-powered Author Services
 * 🚀 Scalable Enterprise Solutions
 * 📖 Author Dashboard SaaS
 * 🤖 Publishing Automation & Workflows
